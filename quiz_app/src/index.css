@@ -6,3 +6,12 @@ body{
   height: 100vh;
   background-image: linear-gradient(#D8C7FF,#19006C);
 }
+.container .correct{
+  background:#dffff2;
+  border-color: #00d397;
+}
+
+.container .wrong{
+  background: #FFEBEB;
+  background-color: #FF4A4A;
+}
