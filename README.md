@@ -2,6 +2,7 @@
 
 # Quiz_App
 
+## Live Demo: 
 You can try the app live here:(https://quizapp-theta-ten.vercel.app/)
 
 This is a **React-based Quiz App** created as a personal project to **refresh and reinforce my understanding of React**. It covers essential React concepts like component-based architecture, state management, and props handling, while providing a simple, interactive quiz experience.
@@ -21,7 +22,7 @@ The app presents a series of multiple-choice questions, tracks user selections, 
 - **JavaScript**: For the core functionality and logic.
 - **CSS**: For styling the app and making it responsive.
 
-## Live Demo:
+
 
 
 
