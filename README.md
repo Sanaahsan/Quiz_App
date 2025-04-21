@@ -2,7 +2,7 @@
 
 # Quiz_App
 
-You can try the app live here:  Vercel Demo
+You can try the app live here:   Vercel Demo
 
 This is a **React-based Quiz App** created as a personal project to **refresh and reinforce my understanding of React**. It covers essential React concepts like component-based architecture, state management, and props handling, while providing a simple, interactive quiz experience.
 
